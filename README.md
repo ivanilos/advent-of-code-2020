@@ -14,6 +14,6 @@ Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz
 
 ## running
 
-Run the codes using `Python 3.6.1`, usually the output is the problem answer (no extra work or observation is necessary) e.g.
+I've run the codes using `Python 3.6.1`, usually the output is the problem answer (no extra work or observation is necessary) e.g.
 
 `python3 part_one.py`
